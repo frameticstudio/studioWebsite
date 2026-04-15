@@ -1,0 +1,39 @@
+# ===== Node (if you ever add backend/tools) =====
+node_modules/
+package-lock.json
+
+# ===== Logs =====
+*.log
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Editor Files =====
+.vscode/
+.idea/
+
+# ===== Environment Files =====
+.env
+
+# ===== Build / Cache =====
+dist/
+build/
+
+# ===== Large Media Files (IMPORTANT 🔥) =====
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# OR ignore full folder (your case)
+frameticStudio_files/
+
+# ===== Images (optional if large) =====
+*.psd
+*.ai
+
+# ===== Misc =====
+*.zip
+*.rar
