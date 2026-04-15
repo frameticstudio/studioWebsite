@@ -28,7 +28,7 @@ build/
 *.webm
 
 # OR ignore full folder (your case)
-frameticStudio_files/
+# frameticStudio_files/
 
 # ===== Images (optional if large) =====
 *.psd
